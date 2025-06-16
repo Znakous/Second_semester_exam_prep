@@ -1,4 +1,5 @@
-// 2024 год
+// в прошлом году было на много баллов
+// в этом году всего на 5-7
 
 int main() {
     static_assert(is_arithmetic_progression<>::value);

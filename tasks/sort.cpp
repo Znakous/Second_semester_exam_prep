@@ -1,3 +1,4 @@
+// 2024 год было +- такое на 20
 #include <type_traits> // только для std::is_same_v, в остальном deprecated
 
 

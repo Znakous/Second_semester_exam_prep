@@ -1,3 +1,4 @@
+// 15-20 баллов
 #include <iostream>
 
 // std::any and std::variant deprecated
